@@ -1,0 +1,4 @@
+Nome = input("Qual seu produto? ")
+Preco = int(input("Qual seu preço? "))
+PrecoDesconto = float (input(Preco*10/100))
+print Seu valor é {PrecoDesconto}
