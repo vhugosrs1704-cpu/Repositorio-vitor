@@ -1,12 +1,12 @@
--MEUS EXERCICIOS DE PYTHON
+# MEUS EXERCICIOS DE PYTHON
 
--repositorio com exercicios e mini projetos que estou fazendo no curso de analise de dados no senac
+repositorio com exercicios e mini projetos que estou fazendo no curso de analise de dados no senac
 
--- tecnologia
+## tecnologia
 
--- python
+- python
 
--- git e github
+- git e github
 
 
 
